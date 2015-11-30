@@ -4,7 +4,7 @@ permalink: /
 profile: true
 ---
 
-I'm Will Barrett. I make software, and I write about it.
+I'm Will Barrett. I make software, and I [write about it](/blog).
 
 I've run my own [consulting shop](http://tallgreentree.com) catering to startups. I've worked for [tiny](http://www.sqwiggle.com) [tech](http://speak.io) [companies](http://rouxbe.com) and [marketing](http://www.schafercondoncarter.com/) [agencies](http://http://www.webershandwick.com/). I have have learned something from every [project](/projects) I've ever attempted.
 
@@ -17,7 +17,7 @@ I want to [share what I know](/blog).
 <div id="mc_embed_signup">
 <form action="//willbarrett.us10.list-manage.com/subscribe/post?u=569a3b66d2809fd1a5a90dbb1&amp;id=c0d65ca547" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
-<h3 style="margin-bottom: 10px;">Join My Community of Readers</h3>
+<h3 style="margin-bottom: 10px;">Join The Community of Readers</h3>
 <div class="mc-field-group">
 <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
@@ -27,7 +27,7 @@ I want to [share what I know](/blog).
 <div class="response" id="mce-error-response" style="display:none"></div>
 <div class="response" id="mce-success-response" style="display:none"></div>
 </div><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_569a3b66d2809fd1a5a90dbb1_c0d65ca547" tabindex="-1" value=""></div>
-<div class="clear"><input type="submit" value="Sign Me Up!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+<div class="clear"><input type="submit" value="Sign Me Up" name="subscribe" id="mc-embedded-subscribe" class="button"><span style="position: relative; top: 8px">for one email each week with a new essay.</span></div>
 </div>
 </form>
 </div>
