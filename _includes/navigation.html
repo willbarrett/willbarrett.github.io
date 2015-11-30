@@ -1,20 +1,13 @@
 <nav class="main-nav">
-    {% if page.url != "/index.html" %}
-        <a href="{{ site.baseurl }}"> <span class="arrow">←</span> Home </a>
+    {% if page.url !="/" %}
+      <a href="{{ site.baseurl }}"> <span class="arrow">←</span> About </a>
     {% endif %}
 
-    {% if page.url != "/about/" %}
-        {% if site.aboutPage %}
-            <a href="{{ site.baseurl }}about">About </a>
-        {% endif %}
-    {% endif %}
+    <a href="{{ site.baseurl }}blog">Essays </a>
 
-    {% if page.url !="/projects/" %}
-      <a href="{{ site.baseurl }}projects">Projects </a>
-    {% endif %}
+    <a href="{{ site.baseurl }}projects">Projects </a>
 
-    {% if page.url !="/writing/" %}
-      <a href="{{ site.baseurl }}writing">Writing </a>
-    {% endif %}
+    <a href="{{ site.baseurl }}writing">Writing </a>
+
     <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
 </nav>

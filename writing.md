@@ -1,7 +1,7 @@
 ---
 title: Writing
 permalink: writing/
-profile: true
+profile: false
 ---
 
 ### I enjoy writing!

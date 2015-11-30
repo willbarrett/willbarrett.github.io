@@ -1,5 +1,4 @@
 name: Will Barrett
-description: Valiantly struggling against the computing revolution
 meta_description: "Will Barrett is a software developer."
 
 aboutPage: true
@@ -16,7 +15,7 @@ disqus_shortname: 'tallgreentree'
 
 # Details for the RSS feed generator
 url:            'http://willbarrett.github.io'
-author:         'William Barrett'
+author:         'Will Barrett'
 authorTwitter:  'willbarrettdev'
 
 permalink:       /:year/:title/
