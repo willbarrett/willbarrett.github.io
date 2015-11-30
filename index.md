@@ -10,7 +10,7 @@ I've run my own [consulting shop](http://tallgreentree.com) catering to startups
 
 I want to [share what I know](/blog).
 
-<!-- Begin MailChimp Signup Form -->
+<a name="subscribe"></a>
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #mc_embed_signup{
@@ -30,5 +30,3 @@ I want to [share what I know](/blog).
 </div>
 </form>
 </div>
-
-<!--End mc_embed_signup-->
