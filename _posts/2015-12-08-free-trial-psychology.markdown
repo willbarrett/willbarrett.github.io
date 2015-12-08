@@ -5,13 +5,7 @@ date: "2015-12-08"
 published: true
 ---
 
-# The Psychological Basis of the Free Trial, and How to Do It Right
-
-Think about how it would feel to drop your morning coffee on the way to work. Just sit with that feeling for 3 seconds, and really hone in on it:
-
-1<br />
-2<br />
-3<br />
+Think about how it would feel to drop your morning coffee on the way to work. Just sit with that feeling for 3 seconds, and really hone in on it.
 
 The negative feeling you're having right now is called [*Loss Aversion*](https://en.wikipedia.org/wiki/Loss_aversion) - and it explains why free trials work.
 
@@ -37,9 +31,10 @@ The role of engagement during a trial should be obvious at this point - the more
 
 What other suggestions can we glean from our understanding of Loss Aversion? These are not tested, but I would suspect that a company could increase post-trial conversion rate by:
 
-1) Emphasizing the potential loss that comes by not upgrading rather than the potential benefits of upgrading in the upgrade notification and other language.
-2) Adding possessive pronouns to language in the product "My, Your" and similar, to promote a feeling of ownership.
-3) Allowing visual customization to drive a feeling of uniqueness, also promoting a sense of ownership.
-4) Providing a financial incentive to upgrade at the end of the trial to reduce the feeling of loss, such as X% off for the first year if they upgrade immediately.
+1. Emphasizing the potential loss that comes by not upgrading rather than the potential benefits of upgrading in the upgrade notification and other language.
+2. Adding possessive pronouns to language in the product "My, Your" and similar, to promote a feeling of ownership.
+3. Allowing visual customization to drive a feeling of uniqueness, also promoting a sense of ownership.
+4. Providing a financial incentive to upgrade at the end of the trial to reduce the feeling of loss, such as X% off for the first year if they upgrade immediately.
 
+<br />
 If you'd like to learn more about Loss Aversion and some other aspects of Decision Theory, check out Jonah Lehrer's book [*How We Decide*](http://www.amazon.com/How-We-Decide-Jonah-Lehrer/dp/0547247990/ref=sr_1_1_twi_kin_2_twi_audd_4?s=books&ie=UTF8&qid=1449589077&sr=1-1&keywords=jonah+lehrer+how+we+decide) - it's a great introduction to the subject, and where I first came across the subject of Loss Aversion.

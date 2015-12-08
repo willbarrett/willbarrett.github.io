@@ -1,5 +1,5 @@
 ---
-profile: false
+profile: true
 permalink: blog/
 ---
 

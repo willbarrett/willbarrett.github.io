@@ -19,6 +19,12 @@ author:         'Will Barrett'
 authorTwitter:  'willbarrettdev'
 
 permalink:       /:year/:title/
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
 
 defaults:
     -
