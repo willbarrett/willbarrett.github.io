@@ -14,4 +14,4 @@ profile: false
 
 <br />
 ### I'm available for guest posts! 
-You can reach me at [will@tallgreentree.com](mailto:will@tallgreentree.com).
+You can reach me at [hi@willbarrett.me](mailto:hi@willbarrett.me).

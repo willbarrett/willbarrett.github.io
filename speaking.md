@@ -12,6 +12,9 @@ Overview of the Sneakers rubygem and how we used it at Speak.io to integrate wit
 
 
 
+<br />
+### I'm available for meetups and conferences! 
+You can reach me at [hi@willbarrett.me](mailto:hi@willbarrett.me).
 
 [1]: http://bmoreonrails.org/
 [2]: http://willbarrett.me/sneakers-presentation
