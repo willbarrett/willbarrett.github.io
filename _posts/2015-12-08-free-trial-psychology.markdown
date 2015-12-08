@@ -5,7 +5,7 @@ date: "2015-12-08"
 published: true
 ---
 
-Think about how it would feel to drop your morning coffee on the way to work. Just sit with that feeling for 3 seconds, and really hone in on it.
+Think about how it would feel to drop your morning coffee. Just sit with that feeling for 10 seconds, and really hone in on it.
 
 The negative feeling you're having right now is called [*Loss Aversion*](https://en.wikipedia.org/wiki/Loss_aversion) - and it explains why free trials work.
 
