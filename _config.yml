@@ -10,7 +10,7 @@ highlighter: pygments
 baseurl: /
 domain_name: 'http://willbarrett.github.io'
 google_analytics: 'UA-68358208-1'
-disqus: true
+disqus: false
 disqus_shortname: 'tallgreentree'
 
 # Details for the RSS feed generator

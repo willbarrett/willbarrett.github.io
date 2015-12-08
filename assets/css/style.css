@@ -449,30 +449,30 @@ Post List
 	font-size: 13px;
 	font-weight: bold;
 	line-height: 1.4;
-	border-top: 1px solid #eee;
+	/* border-top: 1px solid #eee; */
 	padding-top: 40px;
 	margin-bottom: 40px;
-	padding-bottom: 40px;
+	/* padding-bottom: 40px; */
 	margin-top: 40px;
 	color:#444;
-	border-bottom: 1px solid #eee;
+	/* border-bottom: 1px solid #eee; */
 }
 
-#post-meta div span {
-	color: #aaa;
-	font-weight: 500;
-	display: block;
-}
+/* #post-meta div span { */
+/* 	color: #aaa; */
+/* 	font-weight: 500; */
+/* 	display: block; */
+/* } */
 
-#post-meta div span.dark {
-	color: #1E2025;
+/* #post-meta div span.dark { */
+/* 	color: #1E2025; */
 
-}
+/* } */
 
-#post-meta div {
-	margin: 0 25px 0 0;
-	float: left;
-}
+/* #post-meta div { */
+/* 	margin: 0 25px 0 0; */
+/* 	float: left; */
+/* } */
 
 #sharing {
 	float: right;
