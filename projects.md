@@ -5,6 +5,8 @@ profile: false
 ---
 
 ### Current Projects:
+**[Change.org](http://www.change.org)** is a social good company powered by technology. I've been working on the engagement team building social feedback loops, managing a small group of awesome developers, and improving the foundation of the platform. It's one of the most rewarding things I've ever done.
+
 **[This Blog](http://willbarrett.me)** is a repository of what I've learned so far in business and technology.
 
 **[On Learning to Program](http://onlearningtoprogram.com)** is a website and book dedicated to helping people from all backgrounds learn to code. It's focused on helping true beginners through the process of figuring out if programming is right for them, choosing a language, deciding how to learn, and taking their first steps on the path towards mastery.
