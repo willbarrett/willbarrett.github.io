@@ -4,11 +4,11 @@ permalink: /
 profile: true
 ---
 
-I'm Will Barrett. I make software, and I [write about it](/blog).
+I'm Will Barrett. I make software, and I [write about it](/blog). I work for a great organization known as [Change.org](https://www.change.org/)
 
-I've run my own [consulting shop](http://tallgreentree.com) catering to startups. I've worked for [tiny](http://www.sqwiggle.com) [tech](http://speak.io) [companies](http://rouxbe.com) and [marketing](http://www.schafercondoncarter.com/) [agencies](http://http://www.webershandwick.com/). I have have learned something from every [project](/projects) I've ever attempted, and I'm excited for the next one.
+In the past, I've run my own [consulting shop](http://tallgreentree.com) catering to startups. I've worked for [tiny](http://www.sqwiggle.com) [tech](http://speak.io) [companies](http://rouxbe.com) and [marketing](http://www.schafercondoncarter.com/) [agencies](http://http://www.webershandwick.com/). I have have learned something from every [project](/projects) I've ever attempted, and I'm excited for the next one.
 
-I want to [share what I know](/writing).
+I want to [share what I know](/blog).
 <br /><br />
 
 <a name="subscribe"></a>
